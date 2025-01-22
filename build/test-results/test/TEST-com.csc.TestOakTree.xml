@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestOakTree" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-10T22:16:40" hostname="Melissas-MacBook-Pro.local" time="0.011">
+  <properties/>
+  <testcase name="testGetRight()" classname="com.csc.TestOakTree" time="0.008"/>
+  <testcase name="testGetLeft()" classname="com.csc.TestOakTree" time="0.0"/>
+  <testcase name="testGenericLeft()" classname="com.csc.TestOakTree" time="0.0"/>
+  <testcase name="testGenericRight()" classname="com.csc.TestOakTree" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
